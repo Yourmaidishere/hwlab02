@@ -98,7 +98,7 @@ git commit -m"add comment" -a
 git push origin patch1
 ```
 8) Проверила
-9) Сделалв
+9) Сделала
 10) Сначала переключилась на ветку "мастер"
 ```
 git checkout master
@@ -136,8 +136,8 @@ clang-format -style=Mozilla hello_world.cpp
 ```
 3) Отправила на сервер
 4) Немного поменяла комментарий
-5) Есть 
-6)
+5) Есть конфликт
+6) Сделала
 ```
 git checkout master
 git rebase master
@@ -145,4 +145,4 @@ git checkout patch2
 git merge patch2
 7) git push --force origin patch2
 8) Убедилась
-9) 
+9) Сделала
