@@ -2,6 +2,6 @@
 
 int main(){
     std::string name;
-    std::cin >> name;
+    std::cin >> name; //Input your name plz
     std::cout << "Hello world from " << name;
 }
