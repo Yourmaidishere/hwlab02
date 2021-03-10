@@ -53,7 +53,7 @@ git commit -m"added cin" -a
 ```
 git push origin master
 ```
-9) Проверила, скриншот лежит в папке с картинками
+9) Проверила, скрин лежит в папке с картинками
 
 ---
 
@@ -98,7 +98,7 @@ git commit -m"add comment" -a
 git push origin patch1
 ```
 8) Проверила
-9) Нажала на нужную кнопочку
+9) Сделалв
 10) Сначала переключилась на ветку "мастер"
 ```
 git checkout master
@@ -117,7 +117,7 @@ Date:   Wed Mar 10 21:47:18 2021 +0300
 commit 21f1ff682956475281399e7a549086d18394b8dd (origin/patch1, patch1)
 Author: Yourmaidishere <lislovekiss@mail.ru>
 Date:   Wed Mar 10 21:45:14 2021 +0300
-12) Удалила не нужную ветку
+12) Удалила ненужную ветку
 ```
 git branch -D patch1 
 ```
@@ -136,8 +136,8 @@ clang-format -style=Mozilla hello_world.cpp
 ```
 3) Отправила на сервер
 4) Немного поменяла комментарий
-5) Да, конфликт есть
-6) я не знаю как, но я это сделала!!!
+5) Есть 
+6)
 ```
 git checkout master
 git rebase master
@@ -145,4 +145,4 @@ git checkout patch2
 git merge patch2
 7) git push --force origin patch2
 8) Убедилась
-9) Вмержила
+9) 
